@@ -1,6 +1,9 @@
 # AesTheTic-Mirza-
 AesTheTic Mirza 
+
+
 $ apt upgrade 
+
 
 $ apt update
 
